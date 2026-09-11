@@ -1,11 +1,14 @@
-鸿蒙系统可以使用的VPN，支持鸿蒙系统的梯子，2026最佳梯子、免费、低价梯子、翻墙、外网、机场、科学上网VPN软件推荐 （请star我，谢谢）
+鸿蒙系统可以使用的VPN，支持鸿蒙的梯子，2026最佳梯子、免费、低价梯子、翻墙、外网、机场、科学上网VPN软件推荐 （请star我，谢谢）
 ## skylumo加速器
 
-**<font color="red">九年稳定运行</font>**，节点覆盖国家多，低至¥9.9/年付，周期和流量两种，**<font color="red">高套餐仅¥99.9/年付</font>**，支付方式：支付宝、微信
-支持苹果iOS/iPad，Android/鸿蒙，Windows/Mac OS/Linux
+**<font color="red">九年稳定运行</font>**，节点覆盖国家多，低至¥9.9/年付，周期和流量两种，**<font color="red">高套餐仅¥99.9/年付</font>**，
+
+支付方式：支付宝、微信
+
+支持系统：苹果iOS/iPad，Android/鸿蒙，Windows/Mac OS/Linux
 
 **skylumo加速器官网入口：**
-[直达官网入口2](https://skylumo.com/index.php#/register?code=IAaHgyDf)
+[直达官网入口](https://skylumo.com/index.php#/register?code=IAaHgyDf)
 
 
 | 套餐      | 价格                   | 流量          | 同时在线设备        |
